@@ -1,0 +1,2 @@
+Como colar no git: 
+https://initialcommit.com/blog/how-to-paste-in-git-bash#:~:text=Many%20new%20users%20try%20to,such%20as%20Ctrl%2BC%20).
